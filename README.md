@@ -4,7 +4,7 @@ Welcome to my collection of **HackerRank Python challenges**, each challenge liv
 
 - ✅ The original **problem description**
 - 🔗 A **Google Colab link** to run the code live
-- 📂 The code itself (usually `solution.py`)
+- 📂 The code itself (usually `name-of-the-challenge.py`)
 - 📈 Training/test data if provided
 - 📄 Short explanation of the solution (where applicable)
 
