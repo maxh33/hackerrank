@@ -9,6 +9,8 @@ Welcome to my collection of **HackerRank Python challenges**, each challenge liv
 - 📄 Short explanation of the solution (where applicable)
 
 ---
+> This problems was based on a HackerRank challenge, paraphrased for educational use. 
+> Original challenge available on [HackerRank](https://www.hackerrank.com/).
 
 ## 🔄 How to Use
 
