@@ -34,10 +34,9 @@ import random
 import re
 import sys
 
-# read training data
-with open("./sample_data/trainingdata.txt", "r") as f:
+# read training data only use trainingdata.txt path for real challenge
+with open('./sample_data/trainingdata.txt', 'r') as f:
   data = [line.strip() for line in f.readlines() if line.strip()]
-  print(data)
 
 # parse data and remove clipped entries (like battery lasted max time)
 dataset = []
@@ -58,7 +57,6 @@ sum_xx = sum(x * x for x, y in dataset)
 # avoid zero div
 
 if n == 0 or (n * sum_xx - sum_x ** 2) == 0:
-  print("No solution")
   m = 0
   b = 0
 else:
